@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/config.php';
+require __DIR__ . '/api_config.php';
 include '../../logger.php';
 
 uli(1, 'a'); // Append mode for multiple API calls
